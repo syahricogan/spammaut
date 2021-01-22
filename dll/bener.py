@@ -1,5 +1,4 @@
 from warn.warn import *
-# -*- coding: utf-8 -*-
 def bnr():
  print (f"""
 {ken}    ______   _______     _       ____    ____  
