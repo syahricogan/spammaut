@@ -13,7 +13,7 @@ def bnr():
        {im}╩ ╩┴─┘┴─┘{anj}  {im}╚  └─┘┴└─  {anj}╚═╝┘└┘└─┘
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 {kun}[$] Author : {kin}Nuru Syahri
-{kun}[$] Nama SC : {kin}nsrspam
+{kun}[$] Nama SC : {kin}spammaut
 {kun}[$] Github : {kin}https://github.com/syahricogan
 {kun}[$] Youtube : {kin}NSR STORY
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••""")
