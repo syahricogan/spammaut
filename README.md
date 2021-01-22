@@ -20,8 +20,8 @@ Tutorial:
 apt update && apt upgrade
 pkg update
 pkg install python
-git clone https://github.com/syahricogan/nsrspam
-cd nsrspam
+git clone https://github.com/syahricogan/spammaut
+cd spammaut
 pip install -r harus.txt
 python brutal.py
 >>> Pilih 1
