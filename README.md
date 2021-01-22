@@ -30,6 +30,6 @@ python brutal.py
 </code></pre>
 
 ### SOSIAL MEDIA SAYA
-* [<img alt="Rayhan Instragram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://www.instragram.com/nsrstory)<br />
-* [<img alt="Syahri YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>YouTube</b>](https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g<br) />
+* [<img alt="Rayhan Instragram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>instragram</b>](https://www.instragram.com/nsrstory)<br />
+* [<img alt="Syahri YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>YouTube</b>](https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g)<br) />
 * [<img alt="Syahri Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285893123964?text=Asalamualaikum+Bang)<br />
